@@ -18,4 +18,4 @@ I'm a Software Analysis and Development student passionate about building clean 
 
 ### 📬 Hobbies
 
-I like inddie videogames
+I like indie videogames
