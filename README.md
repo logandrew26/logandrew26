@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋, I'm Andrés! 
 
-<!--
-**logandrew26/logandrew26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Analysis and Development student passionate about building clean and efficient applications. I enjoy turning complex problems into simple solutions.
 
-Here are some ideas to get you started:
+- 🌱 **Currently learning:** Advanced software concepts & sharpening my skills.
+- 💻 **Main Tech Stack:** TypeScript & Java.
+- 🌐 **Languages:** Spanish (Native) | English (Intermediate) | French (Basic).
+- ⚡ **Fun fact:** I'm a furry! 🐾 Also always exploring new security tools and optimizing my workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** TypeScript, JavaScript, Java
+* **Tools:** Git, GitHub, VS Code
+* **Soft Skills:** Problem solving, continuous learning
+
+---
+
+### 📬 Hobbies
+
+I like inddie videogames
