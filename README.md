@@ -18,5 +18,5 @@ I'm a Software Analysis and Development student passionate about building clean 
 
 ### 📬 Hobbies
 
-* **I like indie videogames
-* **I'm a furry! 🐾 I love all about furrys
+* I like indie videogames
+* I'm a furry! 🐾 I love all about furrys
