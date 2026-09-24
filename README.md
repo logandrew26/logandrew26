@@ -5,7 +5,7 @@ I'm a Software Analysis and Development student passionate about building clean 
 - 🌱 **Currently learning:** Advanced software concepts & sharpening my skills.
 - 💻 **Main Tech Stack:** TypeScript & Java.
 - 🌐 **Languages:** Spanish (Native) | English (Intermediate) | French (Basic).
-- ⚡ **Fun fact:** I'm a furry! 🐾 Also always exploring new security tools and optimizing my workflow.
+- ⚡ **Fun fact:** Also always exploring new security tools and optimizing my workflow.
 
 ---
 
@@ -19,3 +19,4 @@ I'm a Software Analysis and Development student passionate about building clean 
 ### 📬 Hobbies
 
 I like indie videogames
+I'm a furry! 🐾 I love all about furrys
