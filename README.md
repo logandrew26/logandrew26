@@ -6,8 +6,8 @@ I'm a Software Analysis and Development student passionate about building clean 
 - 💻 **Main Tech Stack:** TypeScript & Java.
 - 🌐 **Languages:** Spanish (Native) | English (Intermediate) | French (Basic).
 - ⚡ **About me:**
-- + Also always exploring new security tools and optimizing my workflow.
-- * I love art, classical music and going to conventions
+-  Also always exploring new security tools and optimizing my workflow.
+-  I love art, classical music and going to conventions
 
 ---
 
